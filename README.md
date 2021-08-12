@@ -28,3 +28,7 @@
 
 
 Please visit https://donglinjia.github.io/angular-website/assets/files/AI.pdf at page 44 for more information explained.
+
+## Provided file:
+
+VEA.py is a demonstration how variable elimination algorithm works in a real life example.

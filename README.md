@@ -1,1 +1,1 @@
-# Variable_Elimination_Algorithm
+# Variable Elimination Algorithm
